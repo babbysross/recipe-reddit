@@ -1,0 +1,12 @@
+{
+  "id": "reddit",
+  "name": "Reddit",
+  "version": "1.0.0",
+  "description": "The front page of the internet.",
+  "main": "index.js",
+  "author": "Ross Elias <ross.elias@doosan.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.reddit.com/"
+  }
+}
