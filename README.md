@@ -6,6 +6,6 @@ Follow instructions [here](https://github.com/meetfranz/plugins/blob/master/docs
 
 For Windows installation:
 
-git clone https://github.com/babbysross/recipe-reddit %USERPROFILE%\AppData\Roaming\Franz\recipes\reddit
+> $ git clone https://github.com/babbysross/recipe-reddit %USERPROFILE%\AppData\Roaming\Franz\recipes\reddit
 
 Reload Franz and add service under 'Development'.
